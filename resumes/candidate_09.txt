@@ -1,0 +1,17 @@
+Ananya Iyer
+Research Scientist
+
+SUMMARY
+Published applied ML research and developed experimental pipelines for text classification and model evaluation.
+
+SKILLS
+Python, Machine Learning, Deep Learning, PyTorch, Statistics, NLP
+
+EXPERIENCE
+8 years of professional experience in research scientist responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+Ph.D. in Computer Science, Indian Institute of Science
+
+PROJECTS
+Completed practical projects involving Python, stakeholder communication, version control, and reproducible documentation.

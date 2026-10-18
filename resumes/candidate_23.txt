@@ -1,0 +1,17 @@
+Michael Osei
+Platform Engineer
+
+SUMMARY
+Built developer platform tooling, improved service observability, and maintained Kubernetes clusters.
+
+SKILLS
+Go, Python, Kubernetes, Docker, AWS, Linux, Git
+
+EXPERIENCE
+6 years of professional experience in platform engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+B.S. in Computer Engineering, University of Ghana
+
+PROJECTS
+Completed practical projects involving Go, stakeholder communication, version control, and reproducible documentation.

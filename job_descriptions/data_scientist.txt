@@ -1,0 +1,2 @@
+Data Scientist
+We are looking for a Data Scientist with 5+ years of experience. Must have Python, SQL, machine learning, statistics, Pandas, and Scikit-learn. Experience building predictive models, running experiments, and communicating findings to product stakeholders is important. Cloud deployment experience is a plus.

@@ -1,0 +1,17 @@
+Samuel Clark
+Research Data Engineer
+
+SUMMARY
+Prepared research datasets, implemented reproducible ETL, and supported model experiments.
+
+SKILLS
+Python, SQL, Spark, Machine Learning, AWS, Airflow
+
+EXPERIENCE
+5 years of professional experience in research data engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+M.S. in Data Science, University of Wisconsin
+
+PROJECTS
+Completed practical projects involving Python, stakeholder communication, version control, and reproducible documentation.

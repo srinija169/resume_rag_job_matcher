@@ -1,0 +1,17 @@
+Divya Menon
+Database Administrator
+
+SUMMARY
+Optimized database performance, managed backups, and implemented access-control and recovery procedures.
+
+SKILLS
+SQL, Python, PostgreSQL, AWS, Linux, Data Governance
+
+EXPERIENCE
+8 years of professional experience in database administrator responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+M.Sc. in Computer Applications, University of Kerala
+
+PROJECTS
+Completed practical projects involving SQL, stakeholder communication, version control, and reproducible documentation.

@@ -1,0 +1,17 @@
+Maya Patel
+ML Engineer
+
+SUMMARY
+Trained computer vision models and productionized inference APIs. Improved model monitoring and reproducibility.
+
+SKILLS
+Python, PyTorch, TensorFlow, Deep Learning, Docker, AWS, MLflow
+
+EXPERIENCE
+4 years of professional experience in ml engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+B.Tech in Computer Science, Gujarat Technological University
+
+PROJECTS
+Completed practical projects involving Python, stakeholder communication, version control, and reproducible documentation.

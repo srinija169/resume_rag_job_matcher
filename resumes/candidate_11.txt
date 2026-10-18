@@ -1,0 +1,17 @@
+Sofia Garcia
+Business Intelligence Analyst
+
+SUMMARY
+Translated stakeholder questions into dashboards, KPI definitions, and analytical reports.
+
+SKILLS
+SQL, Power BI, Tableau, Excel, Python, Data Analysis
+
+EXPERIENCE
+5 years of professional experience in business intelligence analyst responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+MBA, University of Florida
+
+PROJECTS
+Completed practical projects involving SQL, stakeholder communication, version control, and reproducible documentation.

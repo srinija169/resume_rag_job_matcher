@@ -1,0 +1,2 @@
+Data Engineer
+Hiring a Data Engineer with 5+ years of experience. Required: Python, SQL, ETL pipelines, Spark, and workflow orchestration such as Airflow. Experience with AWS or Databricks, data quality, scalable data processing, and reliable production pipelines is valuable.

@@ -1,0 +1,17 @@
+Daniel Brown
+Software Engineer
+
+SUMMARY
+Built backend services, optimized database queries, and contributed to code reviews and test automation.
+
+SKILLS
+Java, SQL, Docker, Git, AWS, Spring
+
+EXPERIENCE
+5 years of professional experience in software engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+B.S. in Computer Science, University of Texas at Austin
+
+PROJECTS
+Completed practical projects involving Java, stakeholder communication, version control, and reproducible documentation.

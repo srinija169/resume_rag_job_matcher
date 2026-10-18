@@ -1,0 +1,2 @@
+Generative AI / RAG Engineer
+Looking for an engineer with 3+ years of experience using Python, LLMs, RAG, vector databases such as ChromaDB, and FastAPI. Must understand document chunking, embeddings, semantic search, retrieval evaluation, and grounding answers in relevant source excerpts. LangChain is a plus.

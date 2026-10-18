@@ -1,0 +1,17 @@
+Mei Lin
+Analytics Engineer
+
+SUMMARY
+Created tested analytics models, standardized metrics, and improved data documentation.
+
+SKILLS
+SQL, Python, dbt, Airflow, Data Analysis, Git, Snowflake
+
+EXPERIENCE
+4 years of professional experience in analytics engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+M.S. in Analytics, Georgia Tech
+
+PROJECTS
+Completed practical projects involving SQL, stakeholder communication, version control, and reproducible documentation.

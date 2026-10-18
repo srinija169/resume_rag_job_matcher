@@ -1,0 +1,17 @@
+Jack Thompson
+DevOps Engineer
+
+SUMMARY
+Automated infrastructure provisioning and deployment workflows and improved service uptime.
+
+SKILLS
+Python, AWS, Docker, Kubernetes, Terraform, Git, Linux
+
+EXPERIENCE
+5 years of professional experience in devops engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+B.S. in Information Technology, University of Colorado
+
+PROJECTS
+Completed practical projects involving Python, stakeholder communication, version control, and reproducible documentation.

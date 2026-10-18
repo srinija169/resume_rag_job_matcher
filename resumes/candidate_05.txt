@@ -1,0 +1,17 @@
+Olivia Chen
+NLP Engineer
+
+SUMMARY
+Built document retrieval systems, evaluated embedding models, and developed question-answering prototypes grounded in source passages.
+
+SKILLS
+Python, NLP, LLM, RAG, LangChain, ChromaDB, PyTorch, FastAPI
+
+EXPERIENCE
+5 years of professional experience in nlp engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+M.S. in Computer Science, University of Toronto
+
+PROJECTS
+Completed practical projects involving Python, stakeholder communication, version control, and reproducible documentation.

@@ -1,0 +1,17 @@
+Zara Ahmed
+QA Automation Engineer
+
+SUMMARY
+Built automated test suites, integrated regression tests into CI, and analyzed release defects.
+
+SKILLS
+Python, Java, Selenium, SQL, Git, Docker
+
+EXPERIENCE
+4 years of professional experience in qa automation engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+B.S. in Computer Science, University of Karachi
+
+PROJECTS
+Completed practical projects involving Python, stakeholder communication, version control, and reproducible documentation.

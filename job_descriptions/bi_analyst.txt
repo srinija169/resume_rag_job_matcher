@@ -1,0 +1,2 @@
+Business Intelligence Analyst
+Seeking a BI Analyst with 3+ years of experience using SQL, Power BI or Tableau, Excel, and data analysis. Must be able to build dashboards, define KPIs, explain trends to stakeholders, and validate source data. Python and statistics are desirable.

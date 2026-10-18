@@ -1,0 +1,258 @@
+{
+  "job_description": "Business Intelligence Analyst\nSeeking a BI Analyst with 3+ years of experience using SQL, Power BI or Tableau, Excel, and data analysis. Must be able to build dashboards, define KPIs, explain trends to stakeholders, and validate source data. Python and statistics are desirable.\n",
+  "filters": {
+    "minimum_experience_years_detected": 3,
+    "must_have_skills_detected": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Tableau",
+      "Excel",
+      "Statistics",
+      "Data Analysis"
+    ]
+  },
+  "top_matches": [
+    {
+      "candidate_name": "Priya Reddy",
+      "resume_path": "resumes/candidate_04.txt",
+      "match_score": 69,
+      "matched_skills": [
+        "Excel",
+        "Power BI",
+        "Python",
+        "SQL",
+        "Statistics",
+        "Tableau"
+      ],
+      "relevant_excerpts": [
+        "SQL, Python, Excel, Tableau, Power BI, Statistics",
+        "Created executive dashboards, analyzed sales funnels, and automated recurring reports with Python and SQL.",
+        "3 years of professional experience in data analyst responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows."
+      ],
+      "reasoning": "Semantic relevance: 55%. Matched 6 of 7 detected job skills. Experience extracted: 3 years; requirement detected: 3 years. Evidence of matching skills: Excel, Power BI, Python, SQL, Statistics, Tableau. Job skills not detected in this resume: Data Analysis. Relevant sections: Skills, Summary, Experience, General.",
+      "experience_years": 3,
+      "missing_detected_skills": [
+        "Data Analysis"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Sofia Garcia",
+      "resume_path": "resumes/candidate_11.txt",
+      "match_score": 68,
+      "matched_skills": [
+        "Data Analysis",
+        "Excel",
+        "Power BI",
+        "Python",
+        "SQL",
+        "Tableau"
+      ],
+      "relevant_excerpts": [
+        "SQL, Power BI, Tableau, Excel, Python, Data Analysis",
+        "5 years of professional experience in business intelligence analyst responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Translated stakeholder questions into dashboards, KPI definitions, and analytical reports."
+      ],
+      "reasoning": "Semantic relevance: 53%. Matched 6 of 7 detected job skills. Experience extracted: 5 years; requirement detected: 3 years. Evidence of matching skills: Data Analysis, Excel, Power BI, Python, SQL, Tableau. Job skills not detected in this resume: Statistics. Relevant sections: Skills, Experience, Summary, General.",
+      "experience_years": 5,
+      "missing_detected_skills": [
+        "Statistics"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Sana Qureshi",
+      "resume_path": "resumes/candidate_30.txt",
+      "match_score": 63,
+      "matched_skills": [
+        "Data Analysis",
+        "Excel",
+        "Power BI",
+        "Python",
+        "SQL",
+        "Statistics"
+      ],
+      "relevant_excerpts": [
+        "SQL, Python, Excel, Power BI, Statistics, Data Analysis",
+        "4 years of professional experience in people analytics specialist responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Sana Qureshi\nPeople Analytics Specialist"
+      ],
+      "reasoning": "Semantic relevance: 45%. Matched 6 of 7 detected job skills. Experience extracted: 4 years; requirement detected: 3 years. Evidence of matching skills: Data Analysis, Excel, Power BI, Python, SQL, Statistics. Job skills not detected in this resume: Tableau. Relevant sections: Skills, Experience, General, Education.",
+      "experience_years": 4,
+      "missing_detected_skills": [
+        "Tableau"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Neha Kulkarni",
+      "resume_path": "resumes/candidate_24.txt",
+      "match_score": 62,
+      "matched_skills": [
+        "Excel",
+        "Power BI",
+        "Python",
+        "SQL",
+        "Statistics"
+      ],
+      "relevant_excerpts": [
+        "Python, SQL, Excel, Power BI, Statistics",
+        "5 years of professional experience in financial data analyst responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Neha Kulkarni\nFinancial Data Analyst"
+      ],
+      "reasoning": "Semantic relevance: 51%. Matched 5 of 7 detected job skills. Experience extracted: 5 years; requirement detected: 3 years. Evidence of matching skills: Excel, Power BI, Python, SQL, Statistics. Job skills not detected in this resume: Data Analysis, Tableau. Relevant sections: Skills, Experience, General, Summary.",
+      "experience_years": 5,
+      "missing_detected_skills": [
+        "Data Analysis",
+        "Tableau"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Emma Wilson",
+      "resume_path": "resumes/candidate_15.txt",
+      "match_score": 52,
+      "matched_skills": [
+        "Python",
+        "SQL",
+        "Statistics"
+      ],
+      "relevant_excerpts": [
+        "Python, SQL, Machine Learning, A/B Testing, Statistics, Pandas",
+        "6 years of professional experience in product data scientist responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows."
+      ],
+      "reasoning": "Semantic relevance: 48%. Matched 3 of 7 detected job skills. Experience extracted: 6 years; requirement detected: 3 years. Evidence of matching skills: Python, SQL, Statistics. Job skills not detected in this resume: Data Analysis, Excel, Power BI, Tableau. Relevant sections: Skills, Experience.",
+      "experience_years": 6,
+      "missing_detected_skills": [
+        "Data Analysis",
+        "Excel",
+        "Power BI",
+        "Tableau"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Leo Fischer",
+      "resume_path": "resumes/candidate_27.txt",
+      "match_score": 50,
+      "matched_skills": [
+        "Python",
+        "SQL",
+        "Statistics"
+      ],
+      "relevant_excerpts": [
+        "Python, Machine Learning, PyTorch, Statistics, NLP, SQL"
+      ],
+      "reasoning": "Semantic relevance: 45%. Matched 3 of 7 detected job skills. Experience extracted: 4 years; requirement detected: 3 years. Evidence of matching skills: Python, SQL, Statistics. Job skills not detected in this resume: Data Analysis, Excel, Power BI, Tableau. Relevant sections: Skills.",
+      "experience_years": 4,
+      "missing_detected_skills": [
+        "Data Analysis",
+        "Excel",
+        "Power BI",
+        "Tableau"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Mei Lin",
+      "resume_path": "resumes/candidate_20.txt",
+      "match_score": 48,
+      "matched_skills": [
+        "Data Analysis",
+        "Python",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "4 years of professional experience in analytics engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "SQL, Python, dbt, Airflow, Data Analysis, Git, Snowflake",
+        "Created tested analytics models, standardized metrics, and improved data documentation."
+      ],
+      "reasoning": "Semantic relevance: 42%. Matched 3 of 7 detected job skills. Experience extracted: 4 years; requirement detected: 3 years. Evidence of matching skills: Data Analysis, Python, SQL. Job skills not detected in this resume: Excel, Power BI, Statistics, Tableau. Relevant sections: Experience, Skills, Summary, Education.",
+      "experience_years": 4,
+      "missing_detected_skills": [
+        "Excel",
+        "Power BI",
+        "Statistics",
+        "Tableau"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Aarav Sharma",
+      "resume_path": "resumes/candidate_01.txt",
+      "match_score": 47,
+      "matched_skills": [
+        "Python",
+        "SQL",
+        "Statistics"
+      ],
+      "relevant_excerpts": [
+        "Aarav Sharma\nData Scientist",
+        "Python, SQL, Machine Learning, Pandas, NumPy, Scikit-learn, Statistics",
+        "5 years of professional experience in data scientist responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows."
+      ],
+      "reasoning": "Semantic relevance: 41%. Matched 3 of 7 detected job skills. Experience extracted: 5 years; requirement detected: 3 years. Evidence of matching skills: Python, SQL, Statistics. Job skills not detected in this resume: Data Analysis, Excel, Power BI, Tableau. Relevant sections: General, Skills, Experience, Education.",
+      "experience_years": 5,
+      "missing_detected_skills": [
+        "Data Analysis",
+        "Excel",
+        "Power BI",
+        "Tableau"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Benjamin Davis",
+      "resume_path": "resumes/candidate_17.txt",
+      "match_score": 44,
+      "matched_skills": [
+        "Python",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "SQL, Python, Spark, AWS, Databricks, ETL, Data Governance",
+        "Benjamin Davis\nData Architect",
+        "10 years of professional experience in data architect responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows."
+      ],
+      "reasoning": "Semantic relevance: 42%. Matched 2 of 7 detected job skills. Experience extracted: 10 years; requirement detected: 3 years. Evidence of matching skills: Python, SQL. Job skills not detected in this resume: Data Analysis, Excel, Power BI, Statistics, Tableau. Relevant sections: Skills, General, Experience, Summary.",
+      "experience_years": 10,
+      "missing_detected_skills": [
+        "Data Analysis",
+        "Excel",
+        "Power BI",
+        "Statistics",
+        "Tableau"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Grace Kim",
+      "resume_path": "resumes/candidate_13.txt",
+      "match_score": 44,
+      "matched_skills": [
+        "Python",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "Python, Linux, SQL, AWS, Security Analytics, Git",
+        "4 years of professional experience in cybersecurity analyst responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows."
+      ],
+      "reasoning": "Semantic relevance: 42%. Matched 2 of 7 detected job skills. Experience extracted: 4 years; requirement detected: 3 years. Evidence of matching skills: Python, SQL. Job skills not detected in this resume: Data Analysis, Excel, Power BI, Statistics, Tableau. Relevant sections: Skills, Experience.",
+      "experience_years": 4,
+      "missing_detected_skills": [
+        "Data Analysis",
+        "Excel",
+        "Power BI",
+        "Statistics",
+        "Tableau"
+      ],
+      "must_have_pass": false
+    }
+  ],
+  "metrics": {
+    "latency_ms": 5514.48,
+    "results_returned": 10
+  },
+  "scoring_note": "Heuristic demo score, not a calibrated probability of job performance. Review source excerpts; extraction may miss facts."
+}

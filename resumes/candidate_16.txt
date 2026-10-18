@@ -1,0 +1,17 @@
+Kavya Nair
+Computer Vision Engineer
+
+SUMMARY
+Trained image classification and object detection models and optimized inference for edge devices.
+
+SKILLS
+Python, PyTorch, TensorFlow, OpenCV, Deep Learning, Docker
+
+EXPERIENCE
+3 years of professional experience in computer vision engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+M.Tech in AI, Amrita Vishwa Vidyapeetham
+
+PROJECTS
+Completed practical projects involving Python, stakeholder communication, version control, and reproducible documentation.

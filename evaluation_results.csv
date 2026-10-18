@@ -1,0 +1,6 @@
+job_role,k,relevant_in_top_k,precision_at_10,precision_percent,label_coverage
+Data Scientist,10,3,0.3,30.0,10
+Data Engineer,10,3,0.3,30.0,10
+BI Analyst,10,4,0.4,40.0,10
+ML Engineer,10,4,0.4,40.0,10
+RAG Engineer,10,2,0.2,20.0,10

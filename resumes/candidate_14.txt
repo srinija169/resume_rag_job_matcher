@@ -1,0 +1,17 @@
+Ibrahim Ali
+Java Backend Developer
+
+SUMMARY
+Designed high-throughput services, improved API reliability, and supported production incident reviews.
+
+SKILLS
+Java, SQL, Kubernetes, Docker, Git, AWS
+
+EXPERIENCE
+7 years of professional experience in java backend developer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+M.S. in Software Engineering, University of Leeds
+
+PROJECTS
+Completed practical projects involving Java, stakeholder communication, version control, and reproducible documentation.

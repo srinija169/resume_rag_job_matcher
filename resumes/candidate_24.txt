@@ -1,0 +1,17 @@
+Neha Kulkarni
+Financial Data Analyst
+
+SUMMARY
+Automated financial reports, reconciled datasets, and built dashboards for forecasting and variance analysis.
+
+SKILLS
+Python, SQL, Excel, Power BI, Statistics
+
+EXPERIENCE
+5 years of professional experience in financial data analyst responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+MBA in Finance, Symbiosis International University
+
+PROJECTS
+Completed practical projects involving Python, stakeholder communication, version control, and reproducible documentation.

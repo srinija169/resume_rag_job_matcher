@@ -1,0 +1,17 @@
+Rohan Desai
+MLOps Engineer
+
+SUMMARY
+Automated model training and deployment, versioned datasets, and implemented model-serving monitoring.
+
+SKILLS
+Python, Docker, Kubernetes, AWS, MLflow, Git, FastAPI
+
+EXPERIENCE
+5 years of professional experience in mlops engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+B.Tech in Information Technology, Pune University
+
+PROJECTS
+Completed practical projects involving Python, stakeholder communication, version control, and reproducible documentation.

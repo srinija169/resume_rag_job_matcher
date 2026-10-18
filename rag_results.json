@@ -1,0 +1,227 @@
+{
+  "job_description": "Generative AI / RAG Engineer\nLooking for an engineer with 3+ years of experience using Python, LLMs, RAG, vector databases such as ChromaDB, and FastAPI. Must understand document chunking, embeddings, semantic search, retrieval evaluation, and grounding answers in relevant source excerpts. LangChain is a plus.\n",
+  "filters": {
+    "minimum_experience_years_detected": 3,
+    "must_have_skills_detected": [
+      "Python",
+      "FastAPI",
+      "ChromaDB",
+      "RAG",
+      "LangChain"
+    ]
+  },
+  "top_matches": [
+    {
+      "candidate_name": "Olivia Chen",
+      "resume_path": "resumes/candidate_05.txt",
+      "match_score": 67,
+      "matched_skills": [
+        "ChromaDB",
+        "FastAPI",
+        "LangChain",
+        "Python",
+        "RAG"
+      ],
+      "relevant_excerpts": [
+        "Python, NLP, LLM, RAG, LangChain, ChromaDB, PyTorch, FastAPI",
+        "Built document retrieval systems, evaluated embedding models, and developed question-answering prototypes grounded in source passages.",
+        "Olivia Chen\nNLP Engineer"
+      ],
+      "reasoning": "Semantic relevance: 44%. Matched 5 of 5 detected job skills. Experience extracted: 5 years; requirement detected: 3 years. Evidence of matching skills: ChromaDB, FastAPI, LangChain, Python, RAG. Relevant sections: Skills, Summary, General, Experience, Education.",
+      "experience_years": 5,
+      "missing_detected_skills": [],
+      "must_have_pass": true
+    },
+    {
+      "candidate_name": "Arjun Rao",
+      "resume_path": "resumes/candidate_21.txt",
+      "match_score": 66,
+      "matched_skills": [
+        "ChromaDB",
+        "FastAPI",
+        "LangChain",
+        "Python",
+        "RAG"
+      ],
+      "relevant_excerpts": [
+        "Python, LLM, RAG, LangChain, ChromaDB, FastAPI, AWS",
+        "3 years of professional experience in generative ai engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Arjun Rao\nGenerative AI Engineer"
+      ],
+      "reasoning": "Semantic relevance: 43%. Matched 5 of 5 detected job skills. Experience extracted: 3 years; requirement detected: 3 years. Evidence of matching skills: ChromaDB, FastAPI, LangChain, Python, RAG. Relevant sections: Skills, Experience, General, Summary, Education, Projects.",
+      "experience_years": 3,
+      "missing_detected_skills": [],
+      "must_have_pass": true
+    },
+    {
+      "candidate_name": "Rohan Desai",
+      "resume_path": "resumes/candidate_12.txt",
+      "match_score": 42,
+      "matched_skills": [
+        "FastAPI",
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "Rohan Desai\nMLOps Engineer",
+        "Python, Docker, Kubernetes, AWS, MLflow, Git, FastAPI"
+      ],
+      "reasoning": "Semantic relevance: 33%. Matched 2 of 5 detected job skills. Experience extracted: 5 years; requirement detected: 3 years. Evidence of matching skills: FastAPI, Python. Job skills not detected in this resume: ChromaDB, LangChain, RAG. Relevant sections: General, Skills.",
+      "experience_years": 5,
+      "missing_detected_skills": [
+        "ChromaDB",
+        "LangChain",
+        "RAG"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Noah Williams",
+      "resume_path": "resumes/candidate_03.txt",
+      "match_score": 41,
+      "matched_skills": [
+        "FastAPI",
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "6 years of professional experience in backend engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows."
+      ],
+      "reasoning": "Semantic relevance: 31%. Matched 2 of 5 detected job skills. Experience extracted: 6 years; requirement detected: 3 years. Evidence of matching skills: FastAPI, Python. Job skills not detected in this resume: ChromaDB, LangChain, RAG. Relevant sections: Experience.",
+      "experience_years": 6,
+      "missing_detected_skills": [
+        "ChromaDB",
+        "LangChain",
+        "RAG"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Mei Lin",
+      "resume_path": "resumes/candidate_20.txt",
+      "match_score": 40,
+      "matched_skills": [
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "SQL, Python, dbt, Airflow, Data Analysis, Git, Snowflake"
+      ],
+      "reasoning": "Semantic relevance: 40%. Matched 1 of 5 detected job skills. Experience extracted: 4 years; requirement detected: 3 years. Evidence of matching skills: Python. Job skills not detected in this resume: ChromaDB, FastAPI, LangChain, RAG. Relevant sections: Skills.",
+      "experience_years": 4,
+      "missing_detected_skills": [
+        "ChromaDB",
+        "FastAPI",
+        "LangChain",
+        "RAG"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Ananya Iyer",
+      "resume_path": "resumes/candidate_09.txt",
+      "match_score": 38,
+      "matched_skills": [
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "Python, Machine Learning, Deep Learning, PyTorch, Statistics, NLP",
+        "Published applied ML research and developed experimental pipelines for text classification and model evaluation."
+      ],
+      "reasoning": "Semantic relevance: 36%. Matched 1 of 5 detected job skills. Experience extracted: 8 years; requirement detected: 3 years. Evidence of matching skills: Python. Job skills not detected in this resume: ChromaDB, FastAPI, LangChain, RAG. Relevant sections: Skills, Summary.",
+      "experience_years": 8,
+      "missing_detected_skills": [
+        "ChromaDB",
+        "FastAPI",
+        "LangChain",
+        "RAG"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Leo Fischer",
+      "resume_path": "resumes/candidate_27.txt",
+      "match_score": 37,
+      "matched_skills": [
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "Python, Machine Learning, PyTorch, Statistics, NLP, SQL",
+        "Completed practical projects involving Python, stakeholder communication, version control, and reproducible documentation."
+      ],
+      "reasoning": "Semantic relevance: 34%. Matched 1 of 5 detected job skills. Experience extracted: 4 years; requirement detected: 3 years. Evidence of matching skills: Python. Job skills not detected in this resume: ChromaDB, FastAPI, LangChain, RAG. Relevant sections: Skills, Projects.",
+      "experience_years": 4,
+      "missing_detected_skills": [
+        "ChromaDB",
+        "FastAPI",
+        "LangChain",
+        "RAG"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Samuel Clark",
+      "resume_path": "resumes/candidate_25.txt",
+      "match_score": 37,
+      "matched_skills": [
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "Python, SQL, Spark, Machine Learning, AWS, Airflow"
+      ],
+      "reasoning": "Semantic relevance: 35%. Matched 1 of 5 detected job skills. Experience extracted: 5 years; requirement detected: 3 years. Evidence of matching skills: Python. Job skills not detected in this resume: ChromaDB, FastAPI, LangChain, RAG. Relevant sections: Skills.",
+      "experience_years": 5,
+      "missing_detected_skills": [
+        "ChromaDB",
+        "FastAPI",
+        "LangChain",
+        "RAG"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Sofia Garcia",
+      "resume_path": "resumes/candidate_11.txt",
+      "match_score": 37,
+      "matched_skills": [
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "SQL, Power BI, Tableau, Excel, Python, Data Analysis"
+      ],
+      "reasoning": "Semantic relevance: 35%. Matched 1 of 5 detected job skills. Experience extracted: 5 years; requirement detected: 3 years. Evidence of matching skills: Python. Job skills not detected in this resume: ChromaDB, FastAPI, LangChain, RAG. Relevant sections: Skills.",
+      "experience_years": 5,
+      "missing_detected_skills": [
+        "ChromaDB",
+        "FastAPI",
+        "LangChain",
+        "RAG"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Kavya Nair",
+      "resume_path": "resumes/candidate_16.txt",
+      "match_score": 36,
+      "matched_skills": [
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "M.Tech in AI, Amrita Vishwa Vidyapeetham",
+        "Python, PyTorch, TensorFlow, OpenCV, Deep Learning, Docker",
+        "Completed practical projects involving Python, stakeholder communication, version control, and reproducible documentation."
+      ],
+      "reasoning": "Semantic relevance: 33%. Matched 1 of 5 detected job skills. Experience extracted: 3 years; requirement detected: 3 years. Evidence of matching skills: Python. Job skills not detected in this resume: ChromaDB, FastAPI, LangChain, RAG. Relevant sections: Education, Skills, Projects.",
+      "experience_years": 3,
+      "missing_detected_skills": [
+        "ChromaDB",
+        "FastAPI",
+        "LangChain",
+        "RAG"
+      ],
+      "must_have_pass": false
+    }
+  ],
+  "metrics": {
+    "latency_ms": 6008.72,
+    "results_returned": 10
+  },
+  "scoring_note": "Heuristic demo score, not a calibrated probability of job performance. Review source excerpts; extraction may miss facts."
+}

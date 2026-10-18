@@ -1,0 +1,17 @@
+Isabella Rossi
+Marketing Analyst
+
+SUMMARY
+Analyzed campaign attribution and conversion performance and built recurring marketing dashboards.
+
+SKILLS
+SQL, Excel, Tableau, Python, Statistics, Data Analysis
+
+EXPERIENCE
+2 years of professional experience in marketing analyst responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+B.A. in Economics, University of Bologna
+
+PROJECTS
+Completed practical projects involving SQL, stakeholder communication, version control, and reproducible documentation.

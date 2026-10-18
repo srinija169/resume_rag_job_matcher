@@ -1,0 +1,17 @@
+William Taylor
+Mobile Developer
+
+SUMMARY
+Developed Android applications, integrated REST APIs, and improved app performance.
+
+SKILLS
+Java, Kotlin, Python, SQL, Git, REST APIs
+
+EXPERIENCE
+5 years of professional experience in mobile developer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+B.S. in Computer Engineering, Purdue University
+
+PROJECTS
+Completed practical projects involving Java, stakeholder communication, version control, and reproducible documentation.

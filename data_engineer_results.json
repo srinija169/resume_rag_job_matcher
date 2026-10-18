@@ -1,0 +1,252 @@
+{
+  "job_description": "Data Engineer\nHiring a Data Engineer with 5+ years of experience. Required: Python, SQL, ETL pipelines, Spark, and workflow orchestration such as Airflow. Experience with AWS or Databricks, data quality, scalable data processing, and reliable production pipelines is valuable.\n",
+  "filters": {
+    "minimum_experience_years_detected": 5,
+    "must_have_skills_detected": [
+      "Python",
+      "SQL",
+      "Spark",
+      "AWS",
+      "ETL",
+      "Airflow",
+      "Databricks"
+    ]
+  },
+  "top_matches": [
+    {
+      "candidate_name": "Fatima Khan",
+      "resume_path": "resumes/candidate_07.txt",
+      "match_score": 72,
+      "matched_skills": [
+        "AWS",
+        "Airflow",
+        "Databricks",
+        "ETL",
+        "Python",
+        "SQL",
+        "Spark"
+      ],
+      "relevant_excerpts": [
+        "6 years of professional experience in data engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Python, SQL, Spark, Airflow, ETL, Databricks, AWS",
+        "M.S. in Data Engineering, University of Houston"
+      ],
+      "reasoning": "Semantic relevance: 54%. Matched 7 of 7 detected job skills. Experience extracted: 6 years; requirement detected: 5 years. Evidence of matching skills: AWS, Airflow, Databricks, ETL, Python, SQL, Spark. Relevant sections: Experience, Skills, Education, Summary, General.",
+      "experience_years": 6,
+      "missing_detected_skills": [],
+      "must_have_pass": true
+    },
+    {
+      "candidate_name": "Samuel Clark",
+      "resume_path": "resumes/candidate_25.txt",
+      "match_score": 66,
+      "matched_skills": [
+        "AWS",
+        "Airflow",
+        "ETL",
+        "Python",
+        "SQL",
+        "Spark"
+      ],
+      "relevant_excerpts": [
+        "5 years of professional experience in research data engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Python, SQL, Spark, Machine Learning, AWS, Airflow",
+        "Samuel Clark\nResearch Data Engineer"
+      ],
+      "reasoning": "Semantic relevance: 51%. Matched 6 of 7 detected job skills. Experience extracted: 5 years; requirement detected: 5 years. Evidence of matching skills: AWS, Airflow, ETL, Python, SQL, Spark. Job skills not detected in this resume: Databricks. Relevant sections: Experience, Skills, General, Education.",
+      "experience_years": 5,
+      "missing_detected_skills": [
+        "Databricks"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Benjamin Davis",
+      "resume_path": "resumes/candidate_17.txt",
+      "match_score": 66,
+      "matched_skills": [
+        "AWS",
+        "Databricks",
+        "ETL",
+        "Python",
+        "SQL",
+        "Spark"
+      ],
+      "relevant_excerpts": [
+        "SQL, Python, Spark, AWS, Databricks, ETL, Data Governance",
+        "10 years of professional experience in data architect responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Designed enterprise data platforms, governance standards, and reliable lakehouse pipelines."
+      ],
+      "reasoning": "Semantic relevance: 50%. Matched 6 of 7 detected job skills. Experience extracted: 10 years; requirement detected: 5 years. Evidence of matching skills: AWS, Databricks, ETL, Python, SQL, Spark. Job skills not detected in this resume: Airflow. Relevant sections: Skills, Experience, Summary, General.",
+      "experience_years": 10,
+      "missing_detected_skills": [
+        "Airflow"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Ethan Johnson",
+      "resume_path": "resumes/candidate_06.txt",
+      "match_score": 49,
+      "matched_skills": [
+        "AWS",
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "7 years of professional experience in cloud engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows."
+      ],
+      "reasoning": "Semantic relevance: 50%. Matched 2 of 7 detected job skills. Experience extracted: 7 years; requirement detected: 5 years. Evidence of matching skills: AWS, Python. Job skills not detected in this resume: Airflow, Databricks, ETL, SQL, Spark. Relevant sections: Experience.",
+      "experience_years": 7,
+      "missing_detected_skills": [
+        "Airflow",
+        "Databricks",
+        "ETL",
+        "SQL",
+        "Spark"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Divya Menon",
+      "resume_path": "resumes/candidate_28.txt",
+      "match_score": 49,
+      "matched_skills": [
+        "AWS",
+        "Python",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "SQL, Python, PostgreSQL, AWS, Linux, Data Governance",
+        "8 years of professional experience in database administrator responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows."
+      ],
+      "reasoning": "Semantic relevance: 43%. Matched 3 of 7 detected job skills. Experience extracted: 8 years; requirement detected: 5 years. Evidence of matching skills: AWS, Python, SQL. Job skills not detected in this resume: Airflow, Databricks, ETL, Spark. Relevant sections: Skills, Experience.",
+      "experience_years": 8,
+      "missing_detected_skills": [
+        "Airflow",
+        "Databricks",
+        "ETL",
+        "Spark"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Jack Thompson",
+      "resume_path": "resumes/candidate_29.txt",
+      "match_score": 48,
+      "matched_skills": [
+        "AWS",
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "5 years of professional experience in devops engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows."
+      ],
+      "reasoning": "Semantic relevance: 49%. Matched 2 of 7 detected job skills. Experience extracted: 5 years; requirement detected: 5 years. Evidence of matching skills: AWS, Python. Job skills not detected in this resume: Airflow, Databricks, ETL, SQL, Spark. Relevant sections: Experience.",
+      "experience_years": 5,
+      "missing_detected_skills": [
+        "Airflow",
+        "Databricks",
+        "ETL",
+        "SQL",
+        "Spark"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Neha Kulkarni",
+      "resume_path": "resumes/candidate_24.txt",
+      "match_score": 47,
+      "matched_skills": [
+        "Python",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "5 years of professional experience in financial data analyst responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows."
+      ],
+      "reasoning": "Semantic relevance: 48%. Matched 2 of 7 detected job skills. Experience extracted: 5 years; requirement detected: 5 years. Evidence of matching skills: Python, SQL. Job skills not detected in this resume: AWS, Airflow, Databricks, ETL, Spark. Relevant sections: Experience.",
+      "experience_years": 5,
+      "missing_detected_skills": [
+        "AWS",
+        "Airflow",
+        "Databricks",
+        "ETL",
+        "Spark"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Emma Wilson",
+      "resume_path": "resumes/candidate_15.txt",
+      "match_score": 46,
+      "matched_skills": [
+        "Python",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "6 years of professional experience in product data scientist responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Python, SQL, Machine Learning, A/B Testing, Statistics, Pandas"
+      ],
+      "reasoning": "Semantic relevance: 46%. Matched 2 of 7 detected job skills. Experience extracted: 6 years; requirement detected: 5 years. Evidence of matching skills: Python, SQL. Job skills not detected in this resume: AWS, Airflow, Databricks, ETL, Spark. Relevant sections: Experience, Skills.",
+      "experience_years": 6,
+      "missing_detected_skills": [
+        "AWS",
+        "Airflow",
+        "Databricks",
+        "ETL",
+        "Spark"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Aarav Sharma",
+      "resume_path": "resumes/candidate_01.txt",
+      "match_score": 45,
+      "matched_skills": [
+        "Python",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "5 years of professional experience in data scientist responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Aarav Sharma\nData Scientist",
+        "M.Tech in Data Science, National Institute of Technology"
+      ],
+      "reasoning": "Semantic relevance: 44%. Matched 2 of 7 detected job skills. Experience extracted: 5 years; requirement detected: 5 years. Evidence of matching skills: Python, SQL. Job skills not detected in this resume: AWS, Airflow, Databricks, ETL, Spark. Relevant sections: Experience, General, Education.",
+      "experience_years": 5,
+      "missing_detected_skills": [
+        "AWS",
+        "Airflow",
+        "Databricks",
+        "ETL",
+        "Spark"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Rohan Desai",
+      "resume_path": "resumes/candidate_12.txt",
+      "match_score": 45,
+      "matched_skills": [
+        "AWS",
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "5 years of professional experience in mlops engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Python, Docker, Kubernetes, AWS, MLflow, Git, FastAPI"
+      ],
+      "reasoning": "Semantic relevance: 43%. Matched 2 of 7 detected job skills. Experience extracted: 5 years; requirement detected: 5 years. Evidence of matching skills: AWS, Python. Job skills not detected in this resume: Airflow, Databricks, ETL, SQL, Spark. Relevant sections: Experience, Skills.",
+      "experience_years": 5,
+      "missing_detected_skills": [
+        "Airflow",
+        "Databricks",
+        "ETL",
+        "SQL",
+        "Spark"
+      ],
+      "must_have_pass": false
+    }
+  ],
+  "metrics": {
+    "latency_ms": 5997.6,
+    "results_returned": 10
+  },
+  "scoring_note": "Heuristic demo score, not a calibrated probability of job performance. Review source excerpts; extraction may miss facts."
+}

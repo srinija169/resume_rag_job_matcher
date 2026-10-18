@@ -1,0 +1,17 @@
+Lucas Martin
+Frontend Developer
+
+SUMMARY
+Developed accessible React interfaces, reusable components, and frontend test automation.
+
+SKILLS
+JavaScript, TypeScript, React, Node.js, HTML, CSS, Git
+
+EXPERIENCE
+4 years of professional experience in frontend developer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+B.S. in Software Engineering, Oregon State University
+
+PROJECTS
+Completed practical projects involving JavaScript, stakeholder communication, version control, and reproducible documentation.

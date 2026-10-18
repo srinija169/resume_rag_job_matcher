@@ -1,0 +1,17 @@
+Noah Williams
+Backend Engineer
+
+SUMMARY
+Designed REST APIs and asynchronous services. Led reliability improvements and automated CI/CD deployments.
+
+SKILLS
+Python, FastAPI, PostgreSQL, Docker, Kubernetes, AWS, Git
+
+EXPERIENCE
+6 years of professional experience in backend engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+B.S. in Computer Science, University of Illinois
+
+PROJECTS
+Completed practical projects involving Python, stakeholder communication, version control, and reproducible documentation.

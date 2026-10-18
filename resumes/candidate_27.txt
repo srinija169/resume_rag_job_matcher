@@ -1,0 +1,17 @@
+Leo Fischer
+Applied Scientist
+
+SUMMARY
+Developed ranking experiments, analyzed offline evaluation metrics, and collaborated with engineering teams.
+
+SKILLS
+Python, Machine Learning, PyTorch, Statistics, NLP, SQL
+
+EXPERIENCE
+4 years of professional experience in applied scientist responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+Ph.D. in Computational Science, ETH Zurich
+
+PROJECTS
+Completed practical projects involving Python, stakeholder communication, version control, and reproducible documentation.

@@ -1,0 +1,17 @@
+Priya Reddy
+Data Analyst
+
+SUMMARY
+Created executive dashboards, analyzed sales funnels, and automated recurring reports with Python and SQL.
+
+SKILLS
+SQL, Python, Excel, Tableau, Power BI, Statistics
+
+EXPERIENCE
+3 years of professional experience in data analyst responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+B.Sc. in Statistics, Andhra University
+
+PROJECTS
+Completed practical projects involving SQL, stakeholder communication, version control, and reproducible documentation.

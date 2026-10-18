@@ -1,0 +1,17 @@
+Fatima Khan
+Data Engineer
+
+SUMMARY
+Built scalable ETL pipelines, improved data quality checks, and orchestrated scheduled data workflows.
+
+SKILLS
+Python, SQL, Spark, Airflow, ETL, Databricks, AWS
+
+EXPERIENCE
+6 years of professional experience in data engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+M.S. in Data Engineering, University of Houston
+
+PROJECTS
+Completed practical projects involving Python, stakeholder communication, version control, and reproducible documentation.

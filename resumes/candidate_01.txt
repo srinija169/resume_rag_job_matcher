@@ -1,0 +1,17 @@
+Aarav Sharma
+Data Scientist
+
+SUMMARY
+Built churn prediction models and customer segmentation pipelines. Deployed batch inference and presented model findings to product teams.
+
+SKILLS
+Python, SQL, Machine Learning, Pandas, NumPy, Scikit-learn, Statistics
+
+EXPERIENCE
+5 years of professional experience in data scientist responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+M.Tech in Data Science, National Institute of Technology
+
+PROJECTS
+Completed practical projects involving Python, stakeholder communication, version control, and reproducible documentation.

@@ -1,0 +1,256 @@
+{
+  "job_description": "Machine Learning Engineer\nSeeking an ML Engineer with 4+ years of experience in Python and production machine learning. Strong PyTorch or TensorFlow, Docker, model serving APIs, model monitoring, and cloud experience (AWS or Azure) are required. Experience deploying scalable inference services is preferred.\n",
+  "filters": {
+    "minimum_experience_years_detected": 4,
+    "must_have_skills_detected": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "TensorFlow",
+      "AWS",
+      "Azure",
+      "Docker"
+    ]
+  },
+  "top_matches": [
+    {
+      "candidate_name": "Maya Patel",
+      "resume_path": "resumes/candidate_02.txt",
+      "match_score": 61,
+      "matched_skills": [
+        "AWS",
+        "Docker",
+        "PyTorch",
+        "Python",
+        "TensorFlow"
+      ],
+      "relevant_excerpts": [
+        "Python, PyTorch, TensorFlow, Deep Learning, Docker, AWS, MLflow",
+        "4 years of professional experience in ml engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Trained computer vision models and productionized inference APIs. Improved model monitoring and reproducibility."
+      ],
+      "reasoning": "Semantic relevance: 50%. Matched 5 of 7 detected job skills. Experience extracted: 4 years; requirement detected: 4 years. Evidence of matching skills: AWS, Docker, PyTorch, Python, TensorFlow. Job skills not detected in this resume: Azure, Machine Learning. Relevant sections: Skills, Experience, Summary.",
+      "experience_years": 4,
+      "missing_detected_skills": [
+        "Azure",
+        "Machine Learning"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Ethan Johnson",
+      "resume_path": "resumes/candidate_06.txt",
+      "match_score": 54,
+      "matched_skills": [
+        "AWS",
+        "Azure",
+        "Docker",
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "7 years of professional experience in cloud engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "AWS, Azure, Docker, Kubernetes, Terraform, Python, Linux",
+        "Ethan Johnson\nCloud Engineer"
+      ],
+      "reasoning": "Semantic relevance: 45%. Matched 4 of 7 detected job skills. Experience extracted: 7 years; requirement detected: 4 years. Evidence of matching skills: AWS, Azure, Docker, Python. Job skills not detected in this resume: Machine Learning, PyTorch, TensorFlow. Relevant sections: Experience, Skills, General, Summary.",
+      "experience_years": 7,
+      "missing_detected_skills": [
+        "Machine Learning",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Samuel Clark",
+      "resume_path": "resumes/candidate_25.txt",
+      "match_score": 52,
+      "matched_skills": [
+        "AWS",
+        "Machine Learning",
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "Python, SQL, Spark, Machine Learning, AWS, Airflow",
+        "5 years of professional experience in research data engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows."
+      ],
+      "reasoning": "Semantic relevance: 49%. Matched 3 of 7 detected job skills. Experience extracted: 5 years; requirement detected: 4 years. Evidence of matching skills: AWS, Machine Learning, Python. Job skills not detected in this resume: Azure, Docker, PyTorch, TensorFlow. Relevant sections: Skills, Experience.",
+      "experience_years": 5,
+      "missing_detected_skills": [
+        "Azure",
+        "Docker",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Ananya Iyer",
+      "resume_path": "resumes/candidate_09.txt",
+      "match_score": 51,
+      "matched_skills": [
+        "Machine Learning",
+        "PyTorch",
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "Python, Machine Learning, Deep Learning, PyTorch, Statistics, NLP"
+      ],
+      "reasoning": "Semantic relevance: 47%. Matched 3 of 7 detected job skills. Experience extracted: 8 years; requirement detected: 4 years. Evidence of matching skills: Machine Learning, PyTorch, Python. Job skills not detected in this resume: AWS, Azure, Docker, TensorFlow. Relevant sections: Skills.",
+      "experience_years": 8,
+      "missing_detected_skills": [
+        "AWS",
+        "Azure",
+        "Docker",
+        "TensorFlow"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Rohan Desai",
+      "resume_path": "resumes/candidate_12.txt",
+      "match_score": 49,
+      "matched_skills": [
+        "AWS",
+        "Docker",
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "Python, Docker, Kubernetes, AWS, MLflow, Git, FastAPI",
+        "5 years of professional experience in mlops engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Rohan Desai\nMLOps Engineer"
+      ],
+      "reasoning": "Semantic relevance: 44%. Matched 3 of 7 detected job skills. Experience extracted: 5 years; requirement detected: 4 years. Evidence of matching skills: AWS, Docker, Python. Job skills not detected in this resume: Azure, Machine Learning, PyTorch, TensorFlow. Relevant sections: Skills, Experience, General, Summary.",
+      "experience_years": 5,
+      "missing_detected_skills": [
+        "Azure",
+        "Machine Learning",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Leo Fischer",
+      "resume_path": "resumes/candidate_27.txt",
+      "match_score": 49,
+      "matched_skills": [
+        "Machine Learning",
+        "PyTorch",
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "Python, Machine Learning, PyTorch, Statistics, NLP, SQL"
+      ],
+      "reasoning": "Semantic relevance: 43%. Matched 3 of 7 detected job skills. Experience extracted: 4 years; requirement detected: 4 years. Evidence of matching skills: Machine Learning, PyTorch, Python. Job skills not detected in this resume: AWS, Azure, Docker, TensorFlow. Relevant sections: Skills.",
+      "experience_years": 4,
+      "missing_detected_skills": [
+        "AWS",
+        "Azure",
+        "Docker",
+        "TensorFlow"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Noah Williams",
+      "resume_path": "resumes/candidate_03.txt",
+      "match_score": 47,
+      "matched_skills": [
+        "AWS",
+        "Docker",
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "Python, FastAPI, PostgreSQL, Docker, Kubernetes, AWS, Git",
+        "6 years of professional experience in backend engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows."
+      ],
+      "reasoning": "Semantic relevance: 40%. Matched 3 of 7 detected job skills. Experience extracted: 6 years; requirement detected: 4 years. Evidence of matching skills: AWS, Docker, Python. Job skills not detected in this resume: Azure, Machine Learning, PyTorch, TensorFlow. Relevant sections: Skills, Experience.",
+      "experience_years": 6,
+      "missing_detected_skills": [
+        "Azure",
+        "Machine Learning",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Jack Thompson",
+      "resume_path": "resumes/candidate_29.txt",
+      "match_score": 46,
+      "matched_skills": [
+        "AWS",
+        "Docker",
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "Python, AWS, Docker, Kubernetes, Terraform, Git, Linux",
+        "5 years of professional experience in devops engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Jack Thompson\nDevOps Engineer"
+      ],
+      "reasoning": "Semantic relevance: 38%. Matched 3 of 7 detected job skills. Experience extracted: 5 years; requirement detected: 4 years. Evidence of matching skills: AWS, Docker, Python. Job skills not detected in this resume: Azure, Machine Learning, PyTorch, TensorFlow. Relevant sections: Skills, Experience, General.",
+      "experience_years": 5,
+      "missing_detected_skills": [
+        "Azure",
+        "Machine Learning",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Michael Osei",
+      "resume_path": "resumes/candidate_23.txt",
+      "match_score": 46,
+      "matched_skills": [
+        "AWS",
+        "Docker",
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "6 years of professional experience in platform engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Built developer platform tooling, improved service observability, and maintained Kubernetes clusters.",
+        "Go, Python, Kubernetes, Docker, AWS, Linux, Git"
+      ],
+      "reasoning": "Semantic relevance: 38%. Matched 3 of 7 detected job skills. Experience extracted: 6 years; requirement detected: 4 years. Evidence of matching skills: AWS, Docker, Python. Job skills not detected in this resume: Azure, Machine Learning, PyTorch, TensorFlow. Relevant sections: Experience, Summary, Skills, Education.",
+      "experience_years": 6,
+      "missing_detected_skills": [
+        "Azure",
+        "Machine Learning",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Fatima Khan",
+      "resume_path": "resumes/candidate_07.txt",
+      "match_score": 42,
+      "matched_skills": [
+        "AWS",
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "Python, SQL, Spark, Airflow, ETL, Databricks, AWS",
+        "6 years of professional experience in data engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "M.S. in Data Engineering, University of Houston"
+      ],
+      "reasoning": "Semantic relevance: 39%. Matched 2 of 7 detected job skills. Experience extracted: 6 years; requirement detected: 4 years. Evidence of matching skills: AWS, Python. Job skills not detected in this resume: Azure, Docker, Machine Learning, PyTorch, TensorFlow. Relevant sections: Skills, Experience, Education, General.",
+      "experience_years": 6,
+      "missing_detected_skills": [
+        "Azure",
+        "Docker",
+        "Machine Learning",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "must_have_pass": false
+    }
+  ],
+  "metrics": {
+    "latency_ms": 6491.69,
+    "results_returned": 10
+  },
+  "scoring_note": "Heuristic demo score, not a calibrated probability of job performance. Review source excerpts; extraction may miss facts."
+}

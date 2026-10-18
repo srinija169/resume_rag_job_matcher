@@ -1,0 +1,17 @@
+Arjun Rao
+Generative AI Engineer
+
+SUMMARY
+Built retrieval-augmented generation demos, compared chunking approaches, and added source-grounded response citations.
+
+SKILLS
+Python, LLM, RAG, LangChain, ChromaDB, FastAPI, AWS
+
+EXPERIENCE
+3 years of professional experience in generative ai engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+B.Tech in Computer Science, VIT
+
+PROJECTS
+Completed practical projects involving Python, stakeholder communication, version control, and reproducible documentation.

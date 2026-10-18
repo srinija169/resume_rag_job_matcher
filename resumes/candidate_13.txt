@@ -1,0 +1,17 @@
+Grace Kim
+Cybersecurity Analyst
+
+SUMMARY
+Analyzed security events, scripted repetitive investigations, and documented incident response procedures.
+
+SKILLS
+Python, Linux, SQL, AWS, Security Analytics, Git
+
+EXPERIENCE
+4 years of professional experience in cybersecurity analyst responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+B.S. in Cybersecurity, University of Maryland
+
+PROJECTS
+Completed practical projects involving Python, stakeholder communication, version control, and reproducible documentation.

@@ -1,0 +1,17 @@
+Ethan Johnson
+Cloud Engineer
+
+SUMMARY
+Managed cloud infrastructure, container orchestration, observability, and deployment automation.
+
+SKILLS
+AWS, Azure, Docker, Kubernetes, Terraform, Python, Linux
+
+EXPERIENCE
+7 years of professional experience in cloud engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.
+
+EDUCATION
+B.S. in Information Systems, Arizona State University
+
+PROJECTS
+Completed practical projects involving AWS, stakeholder communication, version control, and reproducible documentation.

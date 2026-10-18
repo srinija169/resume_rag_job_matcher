@@ -1,0 +1,244 @@
+{
+  "job_description": "Data Scientist\nWe are looking for a Data Scientist with 5+ years of experience. Must have Python, SQL, machine learning, statistics, Pandas, and Scikit-learn. Experience building predictive models, running experiments, and communicating findings to product stakeholders is important. Cloud deployment experience is a plus.\n",
+  "filters": {
+    "minimum_experience_years_detected": 5,
+    "must_have_skills_detected": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Scikit-learn",
+      "Pandas",
+      "Statistics"
+    ]
+  },
+  "top_matches": [
+    {
+      "candidate_name": "Aarav Sharma",
+      "resume_path": "resumes/candidate_01.txt",
+      "match_score": 70,
+      "matched_skills": [
+        "Machine Learning",
+        "Pandas",
+        "Python",
+        "SQL",
+        "Scikit-learn",
+        "Statistics"
+      ],
+      "relevant_excerpts": [
+        "5 years of professional experience in data scientist responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Python, SQL, Machine Learning, Pandas, NumPy, Scikit-learn, Statistics",
+        "Aarav Sharma\nData Scientist"
+      ],
+      "reasoning": "Semantic relevance: 50%. Matched 6 of 6 detected job skills. Experience extracted: 5 years; requirement detected: 5 years. Evidence of matching skills: Machine Learning, Pandas, Python, SQL, Scikit-learn, Statistics. Relevant sections: Experience, Skills, General, Education.",
+      "experience_years": 5,
+      "missing_detected_skills": [],
+      "must_have_pass": true
+    },
+    {
+      "candidate_name": "Emma Wilson",
+      "resume_path": "resumes/candidate_15.txt",
+      "match_score": 63,
+      "matched_skills": [
+        "Machine Learning",
+        "Pandas",
+        "Python",
+        "SQL",
+        "Statistics"
+      ],
+      "relevant_excerpts": [
+        "Python, SQL, Machine Learning, A/B Testing, Statistics, Pandas",
+        "6 years of professional experience in product data scientist responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Emma Wilson\nProduct Data Scientist"
+      ],
+      "reasoning": "Semantic relevance: 47%. Matched 5 of 6 detected job skills. Experience extracted: 6 years; requirement detected: 5 years. Evidence of matching skills: Machine Learning, Pandas, Python, SQL, Statistics. Job skills not detected in this resume: Scikit-learn. Relevant sections: Skills, Experience, General.",
+      "experience_years": 6,
+      "missing_detected_skills": [
+        "Scikit-learn"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Samuel Clark",
+      "resume_path": "resumes/candidate_25.txt",
+      "match_score": 55,
+      "matched_skills": [
+        "Machine Learning",
+        "Python",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "Python, SQL, Spark, Machine Learning, AWS, Airflow",
+        "5 years of professional experience in research data engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "M.S. in Data Science, University of Wisconsin"
+      ],
+      "reasoning": "Semantic relevance: 51%. Matched 3 of 6 detected job skills. Experience extracted: 5 years; requirement detected: 5 years. Evidence of matching skills: Machine Learning, Python, SQL. Job skills not detected in this resume: Pandas, Scikit-learn, Statistics. Relevant sections: Skills, Experience, Education, General.",
+      "experience_years": 5,
+      "missing_detected_skills": [
+        "Pandas",
+        "Scikit-learn",
+        "Statistics"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Fatima Khan",
+      "resume_path": "resumes/candidate_07.txt",
+      "match_score": 49,
+      "matched_skills": [
+        "Python",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "6 years of professional experience in data engineer responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Python, SQL, Spark, Airflow, ETL, Databricks, AWS",
+        "M.S. in Data Engineering, University of Houston"
+      ],
+      "reasoning": "Semantic relevance: 48%. Matched 2 of 6 detected job skills. Experience extracted: 6 years; requirement detected: 5 years. Evidence of matching skills: Python, SQL. Job skills not detected in this resume: Machine Learning, Pandas, Scikit-learn, Statistics. Relevant sections: Experience, Skills, Education, General.",
+      "experience_years": 6,
+      "missing_detected_skills": [
+        "Machine Learning",
+        "Pandas",
+        "Scikit-learn",
+        "Statistics"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Divya Menon",
+      "resume_path": "resumes/candidate_28.txt",
+      "match_score": 49,
+      "matched_skills": [
+        "Python",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "SQL, Python, PostgreSQL, AWS, Linux, Data Governance"
+      ],
+      "reasoning": "Semantic relevance: 48%. Matched 2 of 6 detected job skills. Experience extracted: 8 years; requirement detected: 5 years. Evidence of matching skills: Python, SQL. Job skills not detected in this resume: Machine Learning, Pandas, Scikit-learn, Statistics. Relevant sections: Skills.",
+      "experience_years": 8,
+      "missing_detected_skills": [
+        "Machine Learning",
+        "Pandas",
+        "Scikit-learn",
+        "Statistics"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Ananya Iyer",
+      "resume_path": "resumes/candidate_09.txt",
+      "match_score": 49,
+      "matched_skills": [
+        "Machine Learning",
+        "Python",
+        "Statistics"
+      ],
+      "relevant_excerpts": [
+        "Python, Machine Learning, Deep Learning, PyTorch, Statistics, NLP",
+        "Ph.D. in Computer Science, Indian Institute of Science",
+        "8 years of professional experience in research scientist responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows."
+      ],
+      "reasoning": "Semantic relevance: 40%. Matched 3 of 6 detected job skills. Experience extracted: 8 years; requirement detected: 5 years. Evidence of matching skills: Machine Learning, Python, Statistics. Job skills not detected in this resume: Pandas, SQL, Scikit-learn. Relevant sections: Skills, Education, Experience.",
+      "experience_years": 8,
+      "missing_detected_skills": [
+        "Pandas",
+        "SQL",
+        "Scikit-learn"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Neha Kulkarni",
+      "resume_path": "resumes/candidate_24.txt",
+      "match_score": 49,
+      "matched_skills": [
+        "Python",
+        "SQL",
+        "Statistics"
+      ],
+      "relevant_excerpts": [
+        "5 years of professional experience in financial data analyst responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Python, SQL, Excel, Power BI, Statistics"
+      ],
+      "reasoning": "Semantic relevance: 40%. Matched 3 of 6 detected job skills. Experience extracted: 5 years; requirement detected: 5 years. Evidence of matching skills: Python, SQL, Statistics. Job skills not detected in this resume: Machine Learning, Pandas, Scikit-learn. Relevant sections: Experience, Skills.",
+      "experience_years": 5,
+      "missing_detected_skills": [
+        "Machine Learning",
+        "Pandas",
+        "Scikit-learn"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Benjamin Davis",
+      "resume_path": "resumes/candidate_17.txt",
+      "match_score": 48,
+      "matched_skills": [
+        "Python",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "SQL, Python, Spark, AWS, Databricks, ETL, Data Governance",
+        "10 years of professional experience in data architect responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows.",
+        "Benjamin Davis\nData Architect"
+      ],
+      "reasoning": "Semantic relevance: 46%. Matched 2 of 6 detected job skills. Experience extracted: 10 years; requirement detected: 5 years. Evidence of matching skills: Python, SQL. Job skills not detected in this resume: Machine Learning, Pandas, Scikit-learn, Statistics. Relevant sections: Skills, Experience, General.",
+      "experience_years": 10,
+      "missing_detected_skills": [
+        "Machine Learning",
+        "Pandas",
+        "Scikit-learn",
+        "Statistics"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Sofia Garcia",
+      "resume_path": "resumes/candidate_11.txt",
+      "match_score": 45,
+      "matched_skills": [
+        "Python",
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "SQL, Power BI, Tableau, Excel, Python, Data Analysis",
+        "5 years of professional experience in business intelligence analyst responsibilities. Collaborated with cross-functional teams, documented technical decisions, and delivered measurable improvements to internal workflows."
+      ],
+      "reasoning": "Semantic relevance: 42%. Matched 2 of 6 detected job skills. Experience extracted: 5 years; requirement detected: 5 years. Evidence of matching skills: Python, SQL. Job skills not detected in this resume: Machine Learning, Pandas, Scikit-learn, Statistics. Relevant sections: Skills, Experience.",
+      "experience_years": 5,
+      "missing_detected_skills": [
+        "Machine Learning",
+        "Pandas",
+        "Scikit-learn",
+        "Statistics"
+      ],
+      "must_have_pass": false
+    },
+    {
+      "candidate_name": "Daniel Brown",
+      "resume_path": "resumes/candidate_10.txt",
+      "match_score": 42,
+      "matched_skills": [
+        "SQL"
+      ],
+      "relevant_excerpts": [
+        "B.S. in Computer Science, University of Texas at Austin"
+      ],
+      "reasoning": "Semantic relevance: 45%. Matched 1 of 6 detected job skills. Experience extracted: 5 years; requirement detected: 5 years. Evidence of matching skills: SQL. Job skills not detected in this resume: Machine Learning, Pandas, Python, Scikit-learn, Statistics. Relevant sections: Education.",
+      "experience_years": 5,
+      "missing_detected_skills": [
+        "Machine Learning",
+        "Pandas",
+        "Python",
+        "Scikit-learn",
+        "Statistics"
+      ],
+      "must_have_pass": false
+    }
+  ],
+  "metrics": {
+    "latency_ms": 5328.4,
+    "results_returned": 10
+  },
+  "scoring_note": "Heuristic demo score, not a calibrated probability of job performance. Review source excerpts; extraction may miss facts."
+}
