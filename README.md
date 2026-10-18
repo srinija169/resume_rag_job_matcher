@@ -1,175 +1,164 @@
 # Resume RAG & Job Matching Engine
 
-A learning project that ingests resumes, chunks them by section, embeds chunks using a local Sentence Transformers model, stores vectors in ChromaDB, and ranks candidates using a hybrid semantic similarity and skill-overlap score.
+A Retrieval-Augmented Generation (RAG)-based resume retrieval and job-matching system that retrieves relevant resume sections and ranks candidates against job descriptions using semantic similarity and job-related criteria.
 
-The project evaluates candidate rankings across five job roles: Data Scientist, Data Engineer, BI Analyst, ML Engineer, and RAG Engineer.
+## Project Overview
 
-## Important Notice
+Recruiters often need to review many resumes to identify candidates whose skills and experience align with a job description. This project automates part of that process by indexing resume content, retrieving relevant information, and ranking candidates for different job roles.
 
-This is an educational decision-support prototype. Its scores must not be used as the sole basis for hiring decisions.
+The project uses a collection of fictional resumes and job descriptions to demonstrate resume retrieval, candidate matching, and evaluation.
 
-Resume parsing, skill detection, and years-of-experience extraction are heuristic and can be incorrect. Candidates should be reviewed using resume evidence and consistent, job-related criteria.
+> **Note:** This project is for educational and demonstration purposes only. It should not be used as the sole basis for real hiring decisions.
 
-The current evaluation labels are provisional and require human verification before the reported metrics can be considered reliable.
+## Key Features
 
-## Features
+- Resume ingestion and text chunking
+- Semantic embeddings using Sentence Transformers
+- Vector search and retrieval using ChromaDB
+- Job-description-based candidate matching
+- Candidate ranking using matching scores and job-related criteria
+- Support for multiple job roles
+- Evaluation using Precision@5 and Precision@10
+- Notebook-based experiments and evaluation
+- Export of matching results for further analysis
 
-- Resume loading and section-based chunking
-- Local text embeddings using Sentence Transformers
-- Vector storage and semantic retrieval with ChromaDB
-- Hybrid candidate ranking using semantic similarity, skill overlap, and experience fit
-- Extraction of detected skills and missing skills
-- Minimum-experience filtering
-- JSON output for ranked candidates
-- Notebook experiments and latency analysis
-- Precision@10 evaluation across five job roles
-- CSV export of evaluation results
+## Tech Stack
 
-## Technology Stack
-
-- Python 3.10 or 3.11 recommended
-- Pandas
-- Sentence Transformers
-- ChromaDB
-- Jupyter Notebook
-- JSON and CSV for storing results
-
-No paid API key is required.
-
-## Requirements
-
-- Python 3.10 or 3.11
-- VS Code recommended
-- Internet access for the initial installation and embedding-model download
-
-## 1. Set Up the Environment
-
-Open a terminal in the project folder.
-
-### Windows PowerShell
-
-```powershell
-py -3.11 -m venv .venv
-.\.venv\Scripts\Activate.ps1
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-```
-
-If `py -3.11` is unavailable, install Python 3.11 from [python.org](https://www.python.org/downloads/) and enable **Add Python to PATH** during installation.
-
-If PowerShell blocks virtual-environment activation, run:
-
-```powershell
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-.\.venv\Scripts\Activate.ps1
-```
-
-### macOS / Linux
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-```
-
-## 2. Index the Sample Resumes
-
-Run:
-
-```bash
-python resume_rag.py --reset
-```
-
-The first run downloads the embedding model and may take a few minutes. The vector database is stored locally in `chroma_db/`.
-
-**Warning:** The `--reset` option rebuilds the vector index. Do not run it unnecessarily if you want to preserve your existing index.
-
-## 3. Match a Job Description
-
-Run the matcher against a sample Data Scientist job description:
-
-```bash
-python job_matcher.py --jd-file job_descriptions/data_scientist.txt --top-k 10 --output results.json
-```
-
-To enter a job description interactively:
-
-```bash
-python job_matcher.py
-```
-
-To include candidates who do not meet the detected minimum-experience requirement:
-
-```bash
-python job_matcher.py --jd-file job_descriptions/data_scientist.txt --allow-nonqualifying
-```
-
-Use the actual command-line options supported by your installed script if they differ from these examples.
-
-## 4. Run the Notebook
-
-Start Jupyter:
-
-```bash
-jupyter notebook
-```
-
-Open `notebooks/experiments.ipynb` and run the cells from top to bottom.
-
-The notebook contains experiments for candidate matching and evaluation. It uses the generated rankings and relevance labels to calculate Precision@10.
+- **Python** — application logic and data processing
+- **Sentence Transformers** — semantic embeddings
+- **ChromaDB** — vector storage and similarity search
+- **Pandas** — evaluation and tabular results
+- **Jupyter Notebook** — experiments and evaluation
+- **Git and GitHub** — version control and project hosting
 
 ## Project Structure
 
 ```text
 resume_rag_job_matcher/
-├── resume_rag.py
-├── job_matcher.py
 ├── resumes/
+│   └── Fictional resume text files
 ├── job_descriptions/
+│   ├── data_scientist.txt
+│   ├── ml_engineer.txt
+│   ├── rag_engineer.txt
+│   ├── data_engineer.txt
+│   └── bi_analyst.txt
 ├── notebooks/
 │   └── experiments.ipynb
-├── chroma_db/
+├── resume_rag.py
+├── job_matcher.py
+├── requirements.txt
+├── evaluation_results.csv
+├── manual_label_review.csv
 ├── results.json
+├── rag_results.json
 ├── data_engineer_results.json
 ├── bi_results.json
 ├── ml_results.json
-├── rag_results.json
-├── evaluation_results.csv
-├── requirements.txt
 └── README.md
 ```
 
-Some generated files may appear only after running the relevant scripts or notebook cells.
+The local ChromaDB index and Python virtual environment are generated locally and should not be committed to GitHub.
 
-## Current Scoring Method
+## Installation and Setup
 
-The current baseline scoring method is:
+### 1. Clone the repository
 
-- **60%** semantic similarity
-- **30%** detected skill overlap
-- **10%** experience requirement fit
+```bash
+git clone https://github.com/srinija169/resume_rag_job_matcher.git
+cd resume_rag_job_matcher
+```
 
-The score is a ranking heuristic, not a probability of being qualified or a calibrated measure of hiring suitability.
+### 2. Create a virtual environment
 
-The ranking can be improved by evaluating it against human-reviewed relevance judgments and testing different scoring weights.
+**Windows**
 
-## Evaluation Method
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
 
-### What is Precision@10?
+**macOS/Linux**
 
-Precision@10 measures the proportion of the top 10 ranked candidates that have been labeled relevant for a given job.
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+### 3. Install dependencies
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+## How to Run the Project
+
+### Step 1: Index resumes
+
+Build or reset the vector index from the available resume files:
+
+```bash
+python resume_rag.py --reset
+```
+
+This processes the resumes, splits their content into chunks, generates embeddings, and stores the vectors in ChromaDB.
+
+### Step 2: Match resumes to a job description
+
+Run the job matcher using the options supported by the script:
+
+```bash
+python job_matcher.py --help
+```
+
+Use the appropriate command-line arguments shown by the help output to select a job description and retrieve ranked candidates.
+
+The project includes job descriptions for:
+
+- Data Scientist
+- Data Engineer
+- BI Analyst
+- Machine Learning Engineer
+- RAG Engineer
+
+### Step 3: Run the experiments notebook
+
+Open the notebook:
+
+```bash
+jupyter notebook notebooks/experiments.ipynb
+```
+
+Run the notebook cells to explore candidate rankings, review relevance labels, and calculate evaluation metrics.
+
+## System Workflow
+
+1. **Resume ingestion:** Read resume text files from the resumes directory.
+2. **Text chunking:** Split resumes into smaller passages for retrieval.
+3. **Embedding generation:** Convert text chunks into vector representations.
+4. **Vector indexing:** Store embeddings in ChromaDB.
+5. **Job description processing:** Use the selected job description as the matching query.
+6. **Candidate retrieval and ranking:** Retrieve relevant resume content and rank candidates using the matching logic implemented in the project.
+7. **Evaluation:** Compare ranked candidates with manually reviewed relevance labels and calculate Precision@K.
+
+## Evaluation Methodology
+
+The system is evaluated using manually reviewed relevance labels for the ranked candidate results.
+
+**Precision@K** measures the proportion of relevant candidates among the top K ranked candidates:
 
 \[
-\text{Precision@10} =
-\frac{\text{Relevant candidates in top 10}}{10}
+\text{Precision@K} =
+\frac{\text{Relevant candidates in top K}}{K}
 \]
 
-For example, if 3 of the top 10 candidates are labeled relevant, Precision@10 is 0.30, or 30%.
+For example, if 4 of the top 10 candidates are labeled relevant, Precision@10 is 40%.
 
-### Current Evaluation Results
+## Evaluation Results
 
-| Job role | Relevant in top 10 | Precision@10 |
+The following table records the currently documented evaluation results. These values should be replaced if the latest improved-matching run produces different top-10 relevance counts.
+
+| Job Role | Relevant in Top 10 | Precision@10 |
 |---|---:|---:|
 | Data Scientist | 3/10 | 30% |
 | Data Engineer | 3/10 | 30% |
@@ -178,61 +167,66 @@ For example, if 3 of the top 10 candidates are labeled relevant, Precision@10 is
 | RAG Engineer | 2/10 | 20% |
 | **Overall** | **16/50** | **32%** |
 
-**Current average Precision@10: 32%.**
+**Average Precision@10: 32%**
 
-These results are based on the labels currently recorded in the notebook. The labels have not all been independently verified against complete resumes and job descriptions, so the metrics should be treated as preliminary rather than definitive.
+The overall figure is calculated from 16 relevant results across 50 ranked candidate positions: 16 ÷ 50 = 32%.
 
-### What Does the 32% Tell Us?
+### Precision@5
 
-Under the current labels, 16 of the 50 candidates across the five top-10 lists were marked relevant. The other 34 were marked irrelevant.
+An earlier evaluation reported the following Precision@5 results:
 
-This does not necessarily mean that the remaining 34 candidates are genuinely unsuitable. Some could be relevant but ranked too low, and some labels may be incorrect.
+| Job Role | Relevant in Top 5 | Precision@5 |
+|---|---:|---:|
+| Data Scientist | 2/5 | 40% |
+| Data Engineer | 3/5 | 60% |
+| BI Analyst | 4/5 | 80% |
+| ML Engineer | 3/5 | 60% |
+| RAG Engineer | 2/5 | 40% |
+| **Average** | **14/25** | **56%** |
 
-Potential causes of low measured precision include:
+Precision@5 and Precision@10 measure different portions of the ranked lists. They should be calculated from the same final system version when comparing performance.
 
-1. **Provisional relevance labels:** Some candidates were labeled using detected skills rather than a full review of their resumes against each job description.
-2. **Incomplete skill vocabulary:** The parser may miss synonyms, related technologies, or equivalent experience.
-3. **Semantic and skill-score balance:** The current 60/30/10 weighting may not produce the best rankings for all roles.
-4. **Experience extraction:** Simple patterns can miscalculate total experience or miss relevant dates.
-5. **Job-description parsing:** Mandatory qualifications, preferred skills, and phrases such as “a plus” may not always be distinguished correctly.
-6. **Missing evidence:** A skill not detected in a resume is not necessarily a skill the candidate lacks.
-7. **Retrieval and ranking differences:** A relevant candidate may not appear in the top 10, even if the system has indexed that resume.
+## Results Analysis
 
-### Next Evaluation Steps
+The documented evaluation shows differences in matching performance across job roles.
 
-1. **Verify ground-truth labels.** Review the complete resume and job description for every candidate in each top-10 list. Use `1` for relevant and `0` for not relevant based on consistent criteria.
-2. **Check all ranking results.** Inspect the JSON files and determine whether potentially relevant candidates appear below rank 10.
-3. **Calculate Recall@10.** This measures how many of all known relevant candidates were retrieved in the top 10. It requires a sufficiently complete set of relevance judgments, not just labels for the current top 10.
-4. **Review skill extraction.** Test whether required and preferred skills are parsed correctly, including synonyms and phrases such as “preferred” or “a plus.”
-5. **Tune scoring weights.** Compare alternative weighting schemes using the same reviewed evaluation set.
-6. **Compare before and after changes.** Recalculate the metrics after each improvement rather than assuming a change has helped.
-7. **Consider NDCG@10.** This can evaluate ranking quality when relevance judgments use multiple grades, such as highly relevant, partially relevant, and not relevant.
+- **BI Analyst:** Highest documented Precision@10 at 40%.
+- **ML Engineer:** Precision@10 of 40%.
+- **Data Scientist and Data Engineer:** Precision@10 of 30%.
+- **RAG Engineer:** Precision@10 of 20%, indicating room for improvement.
+
+These results suggest that matching quality depends on the role, the resume dataset, the relevance criteria, and the ranking logic. They should be interpreted as results on this evaluation dataset, not as a guarantee of real-world hiring performance.
 
 ## Limitations
 
-1. PDF text extraction may fail on scanned or image-only documents; OCR may be required.
-2. Experience years are estimated using simple patterns and may not reflect total career experience accurately.
-3. The skill vocabulary is finite and should be extended where appropriate.
-4. Missing detected skills do not prove that a candidate lacks those skills.
-5. A detected skill does not prove proficiency or recent practical experience.
-6. The current scoring weights are a baseline and have not been statistically calibrated.
-7. Precision@10 depends on the quality and completeness of the relevance labels.
-8. The system has not been validated for production hiring decisions.
+- The dataset is relatively small and consists of fictional resumes.
+- Evaluation results depend on the consistency of relevance labels.
+- Semantic similarity does not always imply suitability for a particular role.
+- Keyword and skill matching may miss context or transferable skills.
+- The system has not been validated as a real-world recruitment decision tool.
+- Performance may differ on larger or more diverse resume collections.
 
 ## Future Improvements
 
-- Improve skill extraction with synonyms and normalization.
-- Separate mandatory requirements from preferred qualifications.
-- Improve date parsing and total-experience calculations.
-- Add human-reviewed relevance labels for a larger evaluation dataset.
-- Evaluate Precision@5, Precision@10, Recall@10, and NDCG@10 where appropriate.
-- Tune ranking weights on a reviewed validation set.
-- Add automated tests for parsing, filtering, and ranking.
-- Improve dependency management and reproducibility.
-- Add privacy controls, secure storage, bias testing, and human review before any real-world deployment.
+- Evaluate the improved matching logic on a larger dataset.
+- Improve skill extraction and experience matching.
+- Tune ranking weights using a held-out evaluation dataset.
+- Add more job descriptions and varied resume profiles.
+- Compare semantic retrieval against keyword-based baselines.
+- Add automated evaluation reports and ranking visualizations.
+- Improve retrieval speed and reduce processing latency.
+- Add fairness checks and human review for any practical hiring application.
 
 ## Conclusion
 
-This project demonstrates a local RAG-based resume retrieval and job-matching workflow using semantic embeddings, skill overlap, and experience-based scoring.
+This project demonstrates how semantic search, vector databases, and job-related ranking criteria can be combined to retrieve and rank resumes against job descriptions.
 
-The preliminary average Precision@10 is 32% across five job roles. The next priority is to validate the relevance labels and inspect ranking errors. Only after that should the scoring method and retrieval pipeline be adjusted based on measured results.
+It also provides an evaluation workflow using Precision@5 and Precision@10 to help identify strengths and areas for improvement.
+
+The project is an educational prototype and should support, rather than replace, human judgment.
+
+## Author
+
+**GitHub:** [srinija169](https://github.com/srinija169)
+
+**Repository:** [Resume RAG & Job Matching Engine](https://github.com/srinija169/resume_rag_job_matcher)
